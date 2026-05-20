@@ -1,5 +1,5 @@
 // Configuración de la base de datos externa de Google Sheets
-const SCRIPT_URL = "https://google.com";
+const SCRIPT_URL = https://script.google.com/macros/s/AKfycbyEkUBwSQ__rLSZU7mFxkqishszycOMjLcZtoV6KGTS0AwoY5BfHR8vdCjiztea5rhP/exec
 
 // Banco de preguntas con respuestas ocultas mediante Hash SHA-256 (Evita trampas con F12)
 const questions = [
